@@ -8,6 +8,7 @@ namespace GitHubDemo2
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("add in the visual studio");
+              Console.WriteLine("add from github");
         }
     }
 }
