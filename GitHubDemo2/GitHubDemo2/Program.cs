@@ -10,5 +10,12 @@ namespace GitHubDemo2
             Console.WriteLine("add in the visual studio");
               Console.WriteLine("add from github");
         }
+
+        static int sum()
+        {
+            int a = 1;
+            int b = 1;
+            return a + b;
+        }
     }
 }
